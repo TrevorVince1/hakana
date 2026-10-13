@@ -1,0 +1,18 @@
+{
+  "project": "\"C:\\Users\\pavel\\Documents\\builder.exe\" signing setup --devices-from-mobai",
+  "platform": "ios",
+  "github": {
+    "owner": "TrevorVince1",
+    "repo": "hakana"
+  },
+  "provider": "github",
+  "codemagic": {},
+  "bitrise": {},
+  "ios": {},
+  "flutter": {
+    "watch": {}
+  },
+  "reactNative": {},
+  "kmp": {},
+  "mobai": {}
+}
